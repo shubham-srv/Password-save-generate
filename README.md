@@ -9,7 +9,7 @@ using generate also copies the password to clipboard. Same is the case with sear
 
 ---
 
-this was originally made by Angela Yu in her ***100 Days: Complete python bootcamp course***
+this app was made as a part of ***100 Days: Complete python bootcamp course***
 
 ---
 ![](https://github.com/shubham-srv/Password-save-generate/blob/main/images/passwordvault.png)
